@@ -1,2 +1,2 @@
-# Working-With-MPU-9250
-The repository comprises of the different filters and approach adopted by me to obtain stable values as output.
+# About Branch
+> The branch holds the basic code to obtain values from **MPU registers** and thereby *mathematically* computing Yaw,Pitch and Role.
